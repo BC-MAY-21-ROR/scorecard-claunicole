@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Name LastName # Nombre y apellido
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Claudia González # Nombre y apellido
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: claunicole.gf@gmail.com
   phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  website: claunicole.netlify.app # No agregar http://
+  linkedin: Claudia Gonzalez Fuentes
+  github: claunicole
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@Claunicole1'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,7 +40,13 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Problem solving
+      link: # dejar en blanco
+      
+    - item: Adaptability
+      link: # dejar en blanco
+      
+    - item: Time management
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
